@@ -1,0 +1,3 @@
+
+
+words = ["mama","papa", "nany"]
